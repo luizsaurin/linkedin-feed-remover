@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LinkedIn Feed Remover
 // @namespace    https://github.com/luizsaurin
-// @version      0.0.4
+// @version      1.0.0
 // @description  Hide LinkedIn's annoying social feed
 // @author       luizsaurin
 // @homepageURL  https://github.com/luizsaurin/linkedin-feed-remover
