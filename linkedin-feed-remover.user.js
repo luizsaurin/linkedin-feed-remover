@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LinkedIn Feed Remover
-// @namespace    LinkedInFeedRemover
+// @namespace    https://github.com/luizsaurin
 // @version      0.0.1
 // @description  Hide LinkedIn's social feed and use LinkedIn only for jobs, messaging, networking, and profile management
 // @author       luizsaurin
