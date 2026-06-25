@@ -8,8 +8,8 @@
 // @supportURL   https://github.com/luizsaurin/linkedin-feed-remover/issues
 // @match        https://www.linkedin.com/feed/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=linkedin.com
-// @updateUrl    http://raw.githubusercontent.com/luizsaurin/linkedin-feed-remover/main/linkedin-feed-remover.user.js
-// @downloadUrl  https://raw.githubusercontent.com/luizsaurin/linkedin-feed-remover/main/linkedin-feed-remover.user.js
+// @updateURL    http://raw.githubusercontent.com/luizsaurin/linkedin-feed-remover/main/linkedin-feed-remover.user.js
+// @downloadURL  https://raw.githubusercontent.com/luizsaurin/linkedin-feed-remover/main/linkedin-feed-remover.user.js
 // @grant        none
 
 // ==/UserScript==
