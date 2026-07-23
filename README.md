@@ -2,20 +2,11 @@
 
 Hide LinkedIn's social feed and use LinkedIn only for jobs, messaging, networking, and profile management.
 
-![Preview](preview.png)
-
 ## Installation
 
-### Firefox
-
-1. [Install Tampermonkey extension](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
-1. [Install script](https://raw.githubusercontent.com/luizsaurin/linkedin-feed-remover/main/linkedin-feed-remover.user.js)
-1. Accept Installation
-1. Enjoy!
-
-### Google Chrome
-
-1. [Install Tampermonkey extension](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+1. Install browser extension
+	1. [Google Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+	1. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 1. [Install script](https://raw.githubusercontent.com/luizsaurin/linkedin-feed-remover/main/linkedin-feed-remover.user.js)
 1. Accept Installation
 1. Enjoy!
